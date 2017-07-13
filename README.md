@@ -1,4 +1,5 @@
 # angular-fullstack-app
+<<<<<<< HEAD
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.2.2.
 
@@ -26,3 +27,6 @@ Run `gulp build` for building and `gulp serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+=======
+testing angular-fullstack-generator
+>>>>>>> 98c778ff4c71f0da5d1308d6d377154c3c5ef937
